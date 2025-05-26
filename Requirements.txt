@@ -1,0 +1,11 @@
+The main components of Smart Gloves: 
+• Arduino Nano
+• Flex Sensor
+• LCD Display (16*2)
+• LM 7805
+• Speaker (APR33A3)
+• Pulse Sensor
+• 8 Channel Voice Recorder
+• Switch
+• Node MCU ESP8266
+• Temperature Sensor
